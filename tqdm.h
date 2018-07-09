@@ -1,6 +1,6 @@
 #ifndef TQDM_H
 #define TQDM_H
-#include <unistd.h>
+#include <io.h>
 #include <chrono>
 #include <ctime>
 #include <numeric>
@@ -30,7 +30,7 @@ class tqdm {
         std::vector<const char*> bars = {" ", "▏", "▎", "▍", "▋", "▋", "▊", "▉", "▉"};
         bool in_screen = (system("test $STY") == 0);
         bool in_tmux = (system("test $TMUX") == 0);
-        bool is_tty = isatty(1);
+        bool is_tty = _isatty(1);
         bool use_colors = true;
         bool color_transition = true;
         int width = 40;
