@@ -1,0 +1,12 @@
+C:\Users\madra\Desktop\csharp-tqdm\csharp-tqdm\tqdm-test\bin\Debug\tqdm-test.exe.config
+C:\Users\madra\Desktop\csharp-tqdm\csharp-tqdm\tqdm-test\bin\Debug\tqdm-test.exe
+C:\Users\madra\Desktop\csharp-tqdm\csharp-tqdm\tqdm-test\bin\Debug\tqdm-test.pdb
+C:\Users\madra\Desktop\csharp-tqdm\csharp-tqdm\tqdm-test\obj\Debug\tqdm-test.csproj.CoreCompileInputs.cache
+C:\Users\madra\Desktop\csharp-tqdm\csharp-tqdm\tqdm-test\obj\Debug\tqdm-test.exe
+C:\Users\madra\Desktop\csharp-tqdm\csharp-tqdm\tqdm-test\obj\Debug\tqdm-test.pdb
+C:\Users\madra\Desktop\csharp-tqdm\tqdm-test\bin\Debug\tqdm-test.exe.config
+C:\Users\madra\Desktop\csharp-tqdm\tqdm-test\bin\Debug\tqdm-test.exe
+C:\Users\madra\Desktop\csharp-tqdm\tqdm-test\bin\Debug\tqdm-test.pdb
+C:\Users\madra\Desktop\csharp-tqdm\tqdm-test\obj\Debug\tqdm-test.csproj.CoreCompileInputs.cache
+C:\Users\madra\Desktop\csharp-tqdm\tqdm-test\obj\Debug\tqdm-test.exe
+C:\Users\madra\Desktop\csharp-tqdm\tqdm-test\obj\Debug\tqdm-test.pdb

@@ -1,0 +1,9 @@
+﻿  tqdm_wrap.cxx
+c:\users\madra\desktop\csharp-tqdm\tqdm.h(28): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\madra\desktop\csharp-tqdm\tqdm.h(44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\madra\desktop\csharp-tqdm\tqdm.h(47): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\madra\desktop\csharp-tqdm\tqdm.h(127): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\madra\desktop\csharp-tqdm\tqdm.h(154): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\madra\desktop\csharp-tqdm\tqdm.h(154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     Creating library C:\Users\madra\Desktop\csharp-tqdm\Debug\cpp.lib and object C:\Users\madra\Desktop\csharp-tqdm\Debug\cpp.exp
+  libtqdm.vcxproj -> C:\Users\madra\Desktop\csharp-tqdm\Debug\cpp.dll
