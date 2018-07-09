@@ -1,4 +1,4 @@
-## cpptqdm
+## csharp-tqdm
 
 Python `tqdm` is nice. Need something similar for C++. That's this.
 
